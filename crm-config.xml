@@ -1,0 +1,5 @@
+<configuration>
+    <username>admin</username>
+    <password>fake_crm_password</password>
+    <apikey>demo_crm_api_key</apikey>
+</configuration>
