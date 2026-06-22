@@ -1,0 +1,6 @@
+database:
+  username: admin
+  password: test_password
+
+api:
+  key: demo_api_key
